@@ -1,7 +1,3 @@
-
-**jvnetobr/jvnetobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## About Me
 
 I'm **José Neto**, an IT professional specializing in **Cloud Computing** and **Systems Administration**. With a strong focus on optimizing and managing cloud resources, I thrive on designing efficient and scalable solutions for modern infrastructure.
